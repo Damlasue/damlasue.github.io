@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(0, 0, 0);
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+
+  h2 {
+    color:antiquewhite;
+    text-align: center;
+    font-size: 30px;
+  }
+
+  h3 {
+    color:rgb(0, 0, 0);
+    text-align: center;
+  }
+  
+  p {
+    color:antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  img {
+    display: block;
+    block-size: auto;
+    margin-left: auto;
+    margin-right: auto;
+  }
