@@ -6,6 +6,12 @@
 
 /* List */
 
+   /* resets the button styling */
+   button {
+	all: unset;
+	cursor: pointer;
+  } 
+
 	ol {
 		list-style: decimal;
 		margin: 0 0 _size(element-margin) 0;
